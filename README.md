@@ -1,3 +1,13 @@
-# CrowdFunding
-Created a Crowd Funding platform with the help solidity, hardhat , React and Tailwind CSS. 
-Reference video : https://www.youtube.com/watch?v=AcXVKkYnu1c&t=2461s
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
